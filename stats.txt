@@ -1,0 +1,7 @@
+Total Documents : 11956
+Total Words Encountered : 2668201
+Total Unique Words : 103077
+Total Index Size : 10404113
+Tilte File Count : 6
+Primary Index File Count : 10
+Primary Index Creation Time: 43.38 seconds
